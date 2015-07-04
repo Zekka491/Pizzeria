@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- GENERAL -->
+    <string name="app_name">Pizzeria</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="euro">€</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- ACTIVITY -->
+    <!-- ActivityName -->
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_listino">Listino</string>
+    <string name="title_activity_ordine">Ordine</string>
+
+    <!-- MainActivity -->
+    <string name="descrizione_immagine_pizzeria">Immagine Pizzeria</string>
+
+    <!-- MenuActivity -->
+    <!-- alert_dialog -->
+    <string name="messaggioUscita">Vuoi davvero uscire?</string>
+    <string name="no">NO</string>
+    <string name="si">SI</string>
+    <string name="etichettaOrdine">Fai il tuo ordine!</string>
+    <string name="etichettaListino">Listino</string>
+    <string name="etichettaOrdiniConfermati">Oridini confermati</string>
+
+    <!-- OrdineActivity -->
+    <string name="ordineVuoto">Il tuo ordine è vuoto</string>
+    <string name="ordineNonVuoto">Il tuo ordine contiene:</string>
+
+    <!-- DIALOG -->
+    <string name="btnDialogCancel">Cancel</string>
+    <string name="btnDialogOk">Conferma</string>
+
+    <!-- dialog_num_picker -->
+    <string name="messaggioDialogQuantePizze">Quante pizze?</string>
+
+    <!-- dialog_conferm -->
+    <string name="messaggioDialogAggiornaPizze">Vuoi aggiungere le pizze?</string>
+    <string name="title_activity_modifica_pizza">ModificaPizzaActivity</string>
+
+</resources>
